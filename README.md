@@ -1,13 +1,13 @@
-<!-- Colorful animated profile header -->
+<!-- Animated GitHub Profile README -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=8A5CF6&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Farshaat+Baladi+%F0%9F%91%8B;Future+Software+Engineer;Full-Stack+Development+Journey;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=8A5CF6&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Farshaat+Baladi+%F0%9F%91%8B;Future+Software+Engineer;Aspiring+Full-Stack+Developer;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Animated introduction" />
 
-### Becoming a Software Engineer — One Step at a Time
+### Aspiring Software Engineer | Full-Stack Development
 
-<img src="https://img.shields.io/badge/Focus-Software%20Engineering-8A5CF6?style=for-the-badge" alt="Software Engineering" />
-<img src="https://img.shields.io/badge/Mindset-Curious%20%26%20Creative-EC4899?style=for-the-badge" alt="Curious and creative" />
-<img src="https://img.shields.io/badge/Goal-Build%20Real%20Projects-06B6D4?style=for-the-badge" alt="Build real projects" />
+<img src="https://img.shields.io/badge/FOCUS-Software%20Engineering-8A5CF6?style=for-the-badge" alt="Software Engineering" />
+<img src="https://img.shields.io/badge/MINDSET-Curious%20%26%20Creative-EC4899?style=for-the-badge" alt="Curious and creative" />
+<img src="https://img.shields.io/badge/GOAL-Build%20Useful%20Projects-06B6D4?style=for-the-badge" alt="Build useful projects" />
 
 </div>
 
@@ -15,94 +15,106 @@
 
 ## 👋 About Me
 
-Hi! I'm **Farshaat Baladi**, learning programming and working toward becoming a **full-stack software developer**.
+I'm **Farshaat Baladi**, a programming learner working toward a career in **software engineering and full-stack development**. I'm building my skills through consistent practice, experimentation, and practical projects.
 
-- 🌱 Building my programming knowledge step by step, at my own pace.
-- 💡 Interested in AI-powered applications, web systems, and problem-solving.
-- 🧩 Learning through hands-on practice, experiments, and practical projects.
-- 🎯 Working toward writing clean, understandable code and building user-friendly applications.
-- 🚀 Using this GitHub profile to document my progress and share projects as they become ready.
+- **Interests:** AI-powered applications, web systems, and problem-solving.
+- **Learning approach:** Practise concepts by building small, practical projects.
+- **Development goal:** Write readable, maintainable code and create useful, user-friendly applications.
+- **Portfolio purpose:** Track my progress and share projects as they are built and documented.
 
-> *Small steps, consistent practice, and real projects — that's how I plan to grow.*
+> *Learn consistently. Build thoughtfully. Improve with every project.*
 
 ## 🧭 Learning Roadmap
 
-| Area | My goal |
+| Focus area | Learning objectives |
 |---|---|
 | Programming fundamentals | Strengthen logic, syntax, and code readability. |
-| Problem-solving | Use algorithms and break complex problems into smaller steps. |
-| Front end | Learn HTML, CSS, JavaScript, and responsive web design. |
-| Back end | Learn server-side development, APIs, and authentication. |
-| Databases | Practise SQL, database modelling, and CRUD operations. |
-| AI & automation | Explore practical AI applications and automated software testing. |
-| Developer workflow | Practise Git, GitHub, debugging, and project documentation. |
+| Problem-solving | Apply algorithms and break complex problems into manageable steps. |
+| Front-end development | Learn HTML, CSS, JavaScript, and responsive design. |
+| Back-end development | Explore server-side programming, REST APIs, and authentication. |
+| Databases | Practise SQL, data modelling, and CRUD operations. |
+| AI and automation | Explore AI integrations, computer vision, and automated testing. |
+| Developer workflow | Improve Git, GitHub, debugging, and technical documentation. |
 
-## 🛠️ Tools & Technologies
+## 🛠️ Skills & Tools
 
-*This section reflects my learning path, not a claim of expertise. I'll update it as I gain hands-on experience.*
+*This section distinguishes current programming practice from topics I plan to learn. It is not a claim of professional expertise.*
 
-**Programming practice:** Python · C · Algorithms · Flowcharts
+**Programming practice**
+- Python
+- C
+- Algorithms and flowcharts
 
-**Full-stack development roadmap:** HTML · CSS · JavaScript · APIs · SQL
+**Planned web development stack**
+- HTML and CSS
+- JavaScript
+- APIs and SQL
 
-**Future exploration:** AI applications · Face recognition · Cloud storage · Test automation
+**Areas for future exploration**
+- AI-powered applications
+- Computer vision and face recognition
+- Cloud file storage
+- Software test automation
 
-**Tools I'm using to learn:** Git · GitHub · VS Code
+**Development tools**
+- Git
+- GitHub
+- Visual Studio Code
 
 ## 🚀 Planned Projects
 
-*These five projects are planned ideas, not completed or deployed applications. I'll update their status and add repository links as I build, test, and document them.*
+The projects below are **planned concepts**. They are not yet presented as implemented, completed, or deployed. Repository links and updated status will be added as each project is developed, tested, and documented.
 
 <details>
-<summary>🤖 <strong>AI-Powered Study Assistant</strong> — Planned</summary>
+<summary><strong>🤖 1. AI-Powered Study Assistant</strong> · Planned</summary>
 
-A study companion designed to help learners organise study materials, create summaries, and generate practice questions with AI.
+**Objective:** Create a study tool that helps learners organise study materials, generate summaries, and prepare practice questions with AI.
 
-**Learning goals:** Full-stack development, AI API integration, prompt design, and user data management.
+**Learning objectives:** Full-stack development, AI API integration, prompt design, and user data management.
 </details>
 
 <details>
-<summary>📄 <strong>AI Resume Analyzer</strong> — Planned</summary>
+<summary><strong>📄 2. AI Resume Analyzer</strong> · Planned</summary>
 
-A tool that aims to compare a resume with a job description and provide feedback on relevant skills, keywords, and clarity.
+**Objective:** Develop a tool that compares a resume with a job description and provides structured feedback on relevant skills, keywords, and clarity.
 
-**Learning goals:** Text processing, AI integration, file handling, and web application development.
+**Learning objectives:** Text processing, AI integration, file handling, and web application development.
 </details>
 
 <details>
-<summary>🪪 <strong>Face Recognition Attendance System</strong> — Planned</summary>
+<summary><strong>🪪 3. Face Recognition Attendance System</strong> · Planned</summary>
 
-An attendance system concept that explores face recognition, with appropriate consent, privacy safeguards, secure data handling, and a manual alternative.
+**Objective:** Explore an attendance system that uses face recognition, with appropriate consent, privacy safeguards, secure data handling, and a manual alternative.
 
-**Learning goals:** Python, computer vision, database design, and authentication.
+**Learning objectives:** Python, computer vision, database design, and authentication.
 </details>
 
 <details>
-<summary>☁️ <strong>Cloud File Storage System</strong> — Planned</summary>
+<summary><strong>☁️ 4. Cloud File Storage System</strong> · Planned</summary>
 
-A web application concept for uploading, organising, downloading, and managing files.
+**Objective:** Build a web application concept for uploading, organising, downloading, and managing files.
 
-**Learning goals:** Full-stack development, file uploads, cloud storage, access control, and database integration.
+**Learning objectives:** Full-stack development, file handling, cloud storage, access control, and database integration.
 </details>
 
 <details>
-<summary>🧪 <strong>Automated Software Testing Platform</strong> — Planned</summary>
+<summary><strong>🧪 5. Automated Software Testing Platform</strong> · Planned</summary>
 
-A platform concept for organising test cases, running automated checks, and displaying test results in a clear dashboard.
+**Objective:** Design a platform for organising test cases, running automated checks, and presenting results in a clear dashboard.
 
-**Learning goals:** Software testing, test automation, backend APIs, reporting, and CI workflows.
+**Learning objectives:** Software quality assurance, test automation, backend APIs, reporting, and CI workflows.
 </details>
 
-📌 **Project status:** All five projects are planned only. None is marked as completed until its implementation exists and has been tested and documented.
+> **Status policy:** All five projects remain planned until their code exists and each project has been tested and documented.
 
-## 📈 Current Goals
+## 🎯 Current Goals
 
-- [ ] Strengthen my programming fundamentals and problem-solving skills.
-- [ ] Build small projects with clean, readable code.
+- [ ] Strengthen programming fundamentals and problem-solving skills.
+- [ ] Build small projects with clear, maintainable code.
 - [ ] Learn responsive front-end development.
-- [ ] Build a back-end API and connect it to a database.
-- [ ] Explore AI, computer vision, cloud services, and test automation.
-- [ ] Write clear, useful documentation for every project.
+- [ ] Create a back-end API and connect it to a database.
+- [ ] Explore AI integration, computer vision, cloud services, and test automation.
+- [ ] Document setup instructions, features, and limitations for each project.
 - [ ] Build and deploy a complete full-stack application.
 
 ## 🤝 Connect
@@ -110,7 +122,7 @@ A platform concept for organising test cases, running automated checks, and disp
 <div align="center">
 
 <a href="https://github.com/FarshaatBaladi">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github" alt="Explore my GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-View%20My%20Work-181717?style=for-the-badge&logo=github" alt="View my GitHub work" />
 </a>
 
 <br/><br/>
