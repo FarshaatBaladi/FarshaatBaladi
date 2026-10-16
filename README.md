@@ -18,8 +18,8 @@
 Hi! I'm **Farshaat Baladi**. I'm learning software development and working toward becoming a software engineer with full-stack development skills.
 
 - 🌱 Strengthening my programming fundamentals one step at a time.
-- 💡 Interested in problem-solving, software development, and web applications.
-- 🧩 Learning by practising, experimenting, and building small projects.
+- 💡 Interested in problem-solving, AI-powered applications, and web systems.
+- 🧩 Learning by practising, experimenting, and building practical projects.
 - 🎯 Working toward writing clear code and creating useful applications.
 - 🚀 Using this GitHub profile to document my progress and share projects as they become ready.
 
@@ -34,6 +34,7 @@ Hi! I'm **Farshaat Baladi**. I'm learning software development and working towar
 | Front end | Learn HTML, CSS, JavaScript, and responsive layouts |
 | Back end | Explore server-side programming, APIs, and authentication |
 | Databases | Learn SQL, data modelling, and CRUD operations |
+| AI & automation | Explore practical AI integrations and automated testing |
 | Developer workflow | Practise Git, GitHub, debugging, and documentation |
 
 ## 🛠️ Tools & Technologies
@@ -44,18 +45,55 @@ Hi! I'm **Farshaat Baladi**. I'm learning software development and working towar
 
 **Web development roadmap:** HTML · CSS · JavaScript · APIs · SQL
 
+**Future exploration:** AI integrations · Face recognition · Cloud storage · Test automation
+
 **Tools:** Git · GitHub · VS Code
 
-## 🧪 Projects
+## 🚀 Planned Projects
 
-I'm building my skills through programming exercises and small practical projects. I'll link completed repositories here when they're ready, with instructions and examples.
+*All five projects below are planned ideas, not completed or deployed projects. I'll update their status and add repository links as I build them.*
 
-- 📘 **Programming Practice** — exercises for programming fundamentals and problem-solving.
-- 🎓 **Student Toolkit** *(planned)* — a simple app concept for organising study tasks.
-- 📦 **Inventory Manager** *(planned)* — a beginner-friendly item and quantity tracking app.
-- 🌐 **Full-Stack Web App** *(future goal)* — a project to practise front end, back end, and database integration.
+<details>
+<summary>🤖 <strong>AI-Powered Study Assistant</strong> — Planned</summary>
 
-> The items labelled *planned* or *future goal* are ideas, not completed projects.
+A study companion concept to help learners organise study materials, generate summaries, and create practice questions using AI.
+
+**Possible learning areas:** full-stack web development, AI API integration, prompt design, and user data management.
+</details>
+
+<details>
+<summary>📄 <strong>AI Resume Analyzer</strong> — Planned</summary>
+
+A tool concept that reviews a resume against a job description and provides structured feedback on relevant skills, keywords, and clarity.
+
+**Possible learning areas:** text processing, AI integration, file handling, and web application development.
+</details>
+
+<details>
+<summary>🪪 <strong>Face Recognition Attendance System</strong> — Planned</summary>
+
+An attendance system concept that explores face recognition to record attendance, with appropriate consent, privacy safeguards, and a manual alternative.
+
+**Possible learning areas:** computer vision, Python, database design, and authentication.
+</details>
+
+<details>
+<summary>☁️ <strong>Cloud File Storage System</strong> — Planned</summary>
+
+A file storage application concept where users can upload, organise, download, and manage files through a web interface.
+
+**Possible learning areas:** full-stack development, file uploads, cloud storage, access control, and database integration.
+</details>
+
+<details>
+<summary>🧪 <strong>Automated Software Testing Platform</strong> — Planned</summary>
+
+A platform concept for organising test cases, running automated checks, and presenting test results in a clear dashboard.
+
+**Possible learning areas:** software testing, test automation, backend APIs, reporting, and CI workflows.
+</details>
+
+📌 **Project status:** Planned only. No project is presented as finished until its implementation is built, checked, and documented.
 
 ## 📈 Current Goals
 
@@ -63,6 +101,7 @@ I'm building my skills through programming exercises and small practical project
 - [ ] Build small projects with clear, readable code
 - [ ] Learn responsive front-end development
 - [ ] Build a back-end API and connect a database
+- [ ] Explore AI, computer vision, cloud services, and test automation
 - [ ] Write useful documentation for each project
 - [ ] Publish a complete full-stack project
 
